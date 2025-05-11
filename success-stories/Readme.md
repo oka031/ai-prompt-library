@@ -11,13 +11,13 @@
 
 ## 含まれる事例
 
-### [AIを活用した複数プロジェクト開発で技術力向上を実現](https://github.com/oka031/ai-prompt-library/blob/main/success-stories/practicing%20ai-powered%20data%20analysis%20projects.md)
+### [AIを活用した複数プロジェクト開発で技術力向上を実現](https://github.com/oka031/ai-prompt-library/blob/main/success-stories/data-analysis-with-no-coding.md)
 プログラミング初心者から複数のプロジェクト（TODOアプリ、天気予報アプリ、ポートフォリオサイトなど）を完成させるまでの道のりを紹介。AIを学習パートナーとして活用し、段階的にスキルを習得した成功事例。
 
 ### [AIを活用したポートフォリオサイト制作の成功事例](https://github.com/oka031/ai-prompt-library/blob/main/success-stories/portfolio-creation-case-study.md)
 HTMLやCSSの詳細な知識がない状態から、AIの支援を活用してプロフェッショナルなポートフォリオサイトを効率的に作成した事例。レスポンシブデザインから最適化まで、全工程でのAI活用方法を詳説。
 
-### [AIを活用したデータ分析プロジェクトの実践](https://github.com/oka031/ai-prompt-library/blob/main/success-stories/data-analysis-with-no-coding.md)
+### [AIを活用したデータ分析プロジェクトの実践](https://github.com/oka031/ai-prompt-library/blob/main/success-stories/practicing%20ai-powered%20data%20analysis%20projects.md)
 ブラジルEコマースデータやリモートワーク記事の分析を通じて、データサイエンスの基礎スキルを習得した成功事例。Pythonライブラリの実践的活用方法と、データから洞察を導き出すプロセスを紹介。
 
 ## 活用方法
