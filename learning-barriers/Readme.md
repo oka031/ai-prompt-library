@@ -17,7 +17,7 @@
 ### [抽象的な概念の段階的理解：ReactとFirebaseを例に](./abstract-concepts-react-firebase.md)
 ReactとFirebaseという抽象的で理解が困難な技術概念を、段階的に理解するためのプロンプト戦略。実際の学習体験に基づいた5つのステップで構成。
 
-### [多言語技術環境でのAIコミュニケーション術](./learning-barriers/ai-communication-techniques-in-multilingual-technical-environments.md)
+### [多言語技術環境でのAIコミュニケーション術](https://github.com/oka031/ai-prompt-library/blob/main/learning-barriers/ai-communication-techniques-in-multilingual-technical-environments.md)
 日本語と英語の技術環境で効果的にAIを活用するためのコミュニケーション戦略。日英記事の特性分析結果に基づいた実践的なアプローチを提案。
 
 ## 学習バリアのパターン
