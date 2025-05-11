@@ -14,7 +14,7 @@
 ### [技術的バリアの克服](https://github.com/oka031/ai-prompt-library/blob/main/learning-barriers/overcoming-technical-barriers.md)
 専門用語や技術的概念の理解を助けるプロンプト戦略。5つの主要なバリア（専門用語、コード理解、抽象概念、プロジェクト開始、問題解決）とその解決方法を詳しく解説。
 
-### [抽象的な概念の段階的理解~ReactとFirebaseを例に~](https://github.com/oka031/ai-prompt-library/blob/main/learning-barriers/overcoming-the-wall-of-abstract-concepts.md)
+### [抽象的な概念の段階的理解〜ReactとFirebaseを例に〜](https://github.com/oka031/ai-prompt-library/blob/main/learning-barriers/overcoming-the-wall-of-abstract-concepts.md)
 ReactとFirebaseという抽象的で理解が困難な技術概念を、段階的に理解するためのプロンプト戦略。実際の学習体験に基づいた5つのステップで構成。
 
 ### [多言語技術環境でのAIコミュニケーション術](https://github.com/oka031/ai-prompt-library/blob/main/learning-barriers/ai-communication-techniques-in-multilingual-technical-environments.md)
