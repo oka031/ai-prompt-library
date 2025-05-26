@@ -122,30 +122,4 @@ AIツールを最大限に活用するための基礎知識と実践テクニッ
 
 **AIプロンプトライブラリが、あなたの学びと成長の旅をサポートすることを願っています。**
 
-## About
-データ分析・Web開発・キャリア開発のための実践的AIプロンプト集。効果的なAI活用のためのテンプレートとベストプラクティス。
 
-## Resources
-- Readme
-- Activity
-
-## Stats
-- **0** stars
-- **1** watching
-- **0** forks
-
-## Releases
-No releases published
-[Create a new release]
-
-## Packages
-No packages published
-[Publish your first package]
-
----
-
-© 2025 GitHub, Inc.
-
-**Footer navigation**
-* Terms
-* Privacy
