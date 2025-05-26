@@ -4,11 +4,11 @@
 
 ## 収録プロンプト
 
-- **スキルギャップ分析・ロードマップ作成プロンプト  skill-gap-analysis.md**
+- **[スキルギャップ分析・ロードマップ作成プロンプト](https://github.com/oka031/ai-prompt-library/blob/main/career-development/skill-gap-analysis.md)  skill-gap-analysis.md**
    <br>フルリモート転職に必要なスキルを特定し、実行可能なロードマップを作成
 
   
-- **AI活用ポートフォリオアイデア生成プロンプト  ai-portfolio-ideas.md**
+- **[AI活用ポートフォリオアイデア生成プロンプト](https://github.com/oka031/ai-prompt-library/blob/main/career-development/ai-portfolio-ideas.md)  ai-portfolio-ideas.md**
   <br>フルリモート転職向けの実現可能なAI活用ポートフォリオプロジェクトのアイデアを生成
 
 ## 使い方
