@@ -18,7 +18,7 @@ AIプロンプトエンジニアリングのベストプラクティスを集め
 
 ## 📂 主要コンテンツ
 
-### 🌟 [初心者ガイド](https://github.com/oka031/ai-prompt-library/tree/main/beginners-guide)
+### 🌟 [初心者ガイド](https://github.com/oka031/ai-prompt-library/tree/main/beginners-guide)beginners-guideフォルダ
 AIツールを最大限に活用するための基礎知識と実践テクニック
 * **AIで「できない」を「できる」に変える**: 基本的なプロンプト構造と効果的な活用方法
 * **文脈を活かしたプロンプト設計**: より精度の高い回答を引き出すテクニック
