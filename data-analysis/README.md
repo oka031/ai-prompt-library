@@ -4,15 +4,15 @@
 
 ## 収録プロンプト
 
-- **データインサイト抽出プロンプト  data-insight-extraction.md**
+- **[データインサイト抽出プロンプト](https://github.com/oka031/ai-prompt-library/blob/main/data-analysis/data-insight-extraction.md)  data-insight-extraction.md**
   <br>データセットから価値あるビジネスインサイトを抽出するためのプロンプト
 
   
-- **データクレンジング・前処理プロンプト  data-cleaning.md**
+- **[データクレンジング・前処理プロンプト](https://github.com/oka031/ai-prompt-library/blob/main/data-analysis/data-cleaning.md)  data-cleaning.md**
   <br>生データを分析に適した形に整理するためのプロンプト
 
   
-- **データ可視化提案プロンプト  data-visualization.md**
+- **[データ可視化提案プロンプト](https://github.com/oka031/ai-prompt-library/blob/main/data-analysis/data-visualization.md)  data-visualization.md**
   <br>データセットに最適な可視化方法を提案するためのプロンプト
 
 ## 使い方
