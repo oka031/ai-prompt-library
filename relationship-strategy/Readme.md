@@ -48,7 +48,7 @@
 
 このプロンプトは以下のパスに配置されています：
 
-'''ai-prompt-library/relationship-strategy/人間関係最適化プロンプト.md'''
+```ai-prompt-library/relationship-strategy/人間関係最適化プロンプト.md```
 
 ---
 
